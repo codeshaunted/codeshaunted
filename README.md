@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Darkflame Universe Logo](https://darkflameuniverse.org//DLU-4-256.webp)
 <!--
 **codeshaunted/codeshaunted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
